@@ -89,3 +89,7 @@ To interact with the code, visit the [Google Colab Notebook](https://colab.resea
 - Ananya Singh
 
 **Team Name**: Frostbiters
+
+## License
+
+This project is licensed under the MIT License.
