@@ -84,11 +84,6 @@ To interact with the code, visit the [Google Colab Notebook](https://colab.resea
 
 ---
 
-**Team Members**: 
-- Nehul Jain
-- Ananya Singh
-
-**Team Name**: Frostbiters
 
 ## License
 
