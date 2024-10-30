@@ -34,11 +34,11 @@ We experimented with three different machine learning models to predict driver s
 
 1. **Decision Tree Classifier**:
    - Initial model used to predict the standings.
-   - RMSE on validation data: **3.46918**.
+   - RMSE on validation data: **5.72788**.
 
 2. **Random Forest Classifier**:
    - Improved model using an ensemble method to enhance prediction accuracy.
-   - RMSE on validation data: **3.46918**.
+   - RMSE on validation data: **4.51769**.
 
 3. **Logistic Regression**:
    - Applied logistic regression for classification after standardizing the data.
